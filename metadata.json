@@ -1,0 +1,7 @@
+{
+  "name": "AI Payroll Fusion",
+  "description": "An intelligent payroll management application that simplifies employee data handling and provides AI-powered insights into payroll data through an interactive chat interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
